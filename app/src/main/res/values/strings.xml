@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Gym Buddy</string>
+    <string name="title_home">Home</string>
+    <string name="title_routine">Routine</string>
+    <string name="title_exercise">Exercise</string>
+    <string name="title_calendar">Calendar</string>
+    <string name="title_statistic">Statistic</string>
+    <string-array name="muscle_group">
+        <item>Shoulders</item>
+        <item>Triceps</item>
+        <item>Biceps</item>
+        <item>Chest</item>
+        <item>Upper Back</item>
+        <item>Lower Back</item>
+        <item>Abs</item>
+        <item>Legs</item>
+    </string-array>
+    <string-array name="set_type">
+        <item>Reps-Weight</item>
+        <item>Reps</item>
+        <item>Time</item>
+    </string-array>
+</resources>
