@@ -10,3 +10,6 @@ Application for memo and schedule your workout. Monitor your performance with st
 * UI is under construction
 * Schedule your workout for days or weeks ahead.
 * Track your performance through statistic
+
+## Video Preview
+https://youtu.be/nj9EXiWDsi8
